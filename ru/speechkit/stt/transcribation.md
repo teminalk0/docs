@@ -13,8 +13,8 @@
 ## Как распознать длинное аудио {#long-audio-recognition}
 
 Чтобы распознать длинное аудио, необходимо выполнить 2 запроса:
-1. [Отправить файл на распознавание](#sendfile).
-1. [Получить результаты распознавания](#get-result).
+1. [Отправить файл на распознавание](https://cloud.yandex.ru/docs/speechkit/stt/api/transcribation-api#sendfile-request).
+1. [Получить результаты распознавания](https://cloud.yandex.ru/docs/speechkit/stt/api/transcribation-api#get-result).
 
 ### Особенности использования gRPC {#grpc}
 
